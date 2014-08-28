@@ -1,0 +1,167 @@
+[Firmware Version] => 20140827
+cgminer: bfaa234
+cgminer-openwrt-packages: c9c362f
+luci: 581f3ac
+Reply was 'STATUS=S,When=1409188665,Code=70,Msg=CGMiner stats,Description=cgminer 4.5.0|STATS=0,ID=AV20,Elapsed=44858,Calls=0,Wait=0.000000,Max=0.000000,Min=99999999.000000,ID1 MM Version=331404-dbb0c7c0,Match work count01=0,Match work count02=0,Match work count03=1,Match work count04=0,Match work count05=1,Local works1=1222,Hardware error works1=0,Device hardware error1%=0.0000,Temperature1=35,Temperature2=36,Fan1=1650,Fan2=1590,Voltage1=7250,Frequency1=5907,Power good 01=31,Led 01=0,USB Pipe=5 0/0/5 1409143824,USB Delay=r0 0.000000 w0 0.000000,USB tmo=1208 0|STATS=1,ID=AV21,Elapsed=44858,Calls=0,Wait=0.000000,Max=0.000000,Min=99999999.000000,ID1 MM Version=331404-dbb0c7c0,Match work count01=469,Match work count02=483,Match work count03=454,Match work count04=528,Match work count05=469,Local works1=2873835,Hardware error works1=8197,Device hardware error1%=0.2852,Temperature1=70,Temperature2=72,Fan1=3060,Fan2=2850,Voltage1=7250,Frequency1=5907,Power good 01=31,Led 01=0,USB Pipe=0,USB Delay=r0 0.000000 w0 0.000000,USB tmo=2725227 0|STATS=2,ID=POOL0,Elapsed=44858,Calls=0,Wait=0.000000,Max=0.000000,Min=99999999.000000,Pool Calls=0,Pool Attempts=0,Pool Wait=0.000000,Pool Max=0.000000,Pool Min=99999999.000000,Pool Av=0.000000,Work Had Roll Time=false,Work Can Roll=false,Work Had Expire=false,Work Roll Time=0,Work Diff=1024.00000000,Min Diff=512.00000000,Max Diff=2048.00000000,Min Diff Count=567,Max Diff Count=7981,Times Sent=2396,Bytes Sent=329324,Times Recv=5012,Bytes Recv=2892920,Net Bytes Sent=329324,Net Bytes Recv=2892920|STATS=3,ID=POOL1,Elapsed=44858,Calls=0,Wait=0.000000,Max=0.000000,Min=99999999.000000,Pool Calls=0,Pool Attempts=0,Pool Wait=0.000000,Pool Max=0.000000,Pool Min=99999999.000000,Pool Av=0.000000,Work Had Roll Time=false,Work Can Roll=false,Work Had Expire=false,Work Roll Time=0,Work Diff=512.00000000,Min Diff=512.00000000,Max Diff=512.00000000,Min Diff Count=4,Max Diff Count=4,Times Sent=2,Bytes Sent=151,Times Recv=5,Bytes Recv=2473,Net Bytes Sent=151,Net Bytes Recv=2473|STATS=4,ID=POOL2,Elapsed=44858,Calls=0,Wait=0.000000,Max=0.000000,Min=99999999.000000,Pool Calls=0,Pool Attempts=0,Pool Wait=0.000000,Pool Max=0.000000,Pool Min=99999999.000000,Pool Av=0.000000,Work Had Roll Time=false,Work Can Roll=false,Work Had Expire=false,Work Roll Time=0,Work Diff=512.00000000,Min Diff=512.00000000,Max Diff=512.00000000,Min Diff Count=1,Max Diff Count=1,Times Sent=2,Bytes Sent=151,Times Recv=4,Bytes Recv=1346,Net Bytes Sent=151,Net Bytes Recv=1346|'
+[STATUS] =>
+(
+   [STATUS] => S
+   [When] => 1409188665
+   [Code] => 70
+   [Msg] => CGMiner stats
+   [Description] => cgminer 4.5.0
+)
+[STATS0] =>
+(
+   [STATS] => 0
+   [ID] => AV20
+   [Elapsed] => 44858
+   [Calls] => 0
+   [Wait] => 0.000000
+   [Max] => 0.000000
+   [Min] => 99999999.000000
+   [ID1 MM Version] => 331404-dbb0c7c0
+   [Match work count01] => 0
+   [Match work count02] => 0
+   [Match work count03] => 1
+   [Match work count04] => 0
+   [Match work count05] => 1
+   [Local works1] => 1222
+   [Hardware error works1] => 0
+   [Device hardware error1%] => 0.0000
+   [Temperature1] => 35
+   [Temperature2] => 36
+   [Fan1] => 1650
+   [Fan2] => 1590
+   [Voltage1] => 7250
+   [Frequency1] => 5907
+   [Power good 01] => 31
+   [Led 01] => 0
+   [USB Pipe] => 5 0/0/5 1409143824
+   [USB Delay] => r0 0.000000 w0 0.000000
+   [USB tmo] => 1208 0
+)
+[STATS1] =>
+(
+   [STATS] => 1
+   [ID] => AV21
+   [Elapsed] => 44858
+   [Calls] => 0
+   [Wait] => 0.000000
+   [Max] => 0.000000
+   [Min] => 99999999.000000
+   [ID1 MM Version] => 331404-dbb0c7c0
+   [Match work count01] => 469
+   [Match work count02] => 483
+   [Match work count03] => 454
+   [Match work count04] => 528
+   [Match work count05] => 469
+   [Local works1] => 2873835
+   [Hardware error works1] => 8197
+   [Device hardware error1%] => 0.2852
+   [Temperature1] => 70
+   [Temperature2] => 72
+   [Fan1] => 3060
+   [Fan2] => 2850
+   [Voltage1] => 7250
+   [Frequency1] => 5907
+   [Power good 01] => 31
+   [Led 01] => 0
+   [USB Pipe] => 0
+   [USB Delay] => r0 0.000000 w0 0.000000
+   [USB tmo] => 2725227 0
+)
+[STATS2] =>
+(
+   [STATS] => 2
+   [ID] => POOL0
+   [Elapsed] => 44858
+   [Calls] => 0
+   [Wait] => 0.000000
+   [Max] => 0.000000
+   [Min] => 99999999.000000
+   [Pool Calls] => 0
+   [Pool Attempts] => 0
+   [Pool Wait] => 0.000000
+   [Pool Max] => 0.000000
+   [Pool Min] => 99999999.000000
+   [Pool Av] => 0.000000
+   [Work Had Roll Time] => false
+   [Work Can Roll] => false
+   [Work Had Expire] => false
+   [Work Roll Time] => 0
+   [Work Diff] => 1024.00000000
+   [Min Diff] => 512.00000000
+   [Max Diff] => 2048.00000000
+   [Min Diff Count] => 567
+   [Max Diff Count] => 7981
+   [Times Sent] => 2396
+   [Bytes Sent] => 329324
+   [Times Recv] => 5012
+   [Bytes Recv] => 2892920
+   [Net Bytes Sent] => 329324
+   [Net Bytes Recv] => 2892920
+)
+[STATS3] =>
+(
+   [STATS] => 3
+   [ID] => POOL1
+   [Elapsed] => 44858
+   [Calls] => 0
+   [Wait] => 0.000000
+   [Max] => 0.000000
+   [Min] => 99999999.000000
+   [Pool Calls] => 0
+   [Pool Attempts] => 0
+   [Pool Wait] => 0.000000
+   [Pool Max] => 0.000000
+   [Pool Min] => 99999999.000000
+   [Pool Av] => 0.000000
+   [Work Had Roll Time] => false
+   [Work Can Roll] => false
+   [Work Had Expire] => false
+   [Work Roll Time] => 0
+   [Work Diff] => 512.00000000
+   [Min Diff] => 512.00000000
+   [Max Diff] => 512.00000000
+   [Min Diff Count] => 4
+   [Max Diff Count] => 4
+   [Times Sent] => 2
+   [Bytes Sent] => 151
+   [Times Recv] => 5
+   [Bytes Recv] => 2473
+   [Net Bytes Sent] => 151
+   [Net Bytes Recv] => 2473
+)
+[STATS4] =>
+(
+   [STATS] => 4
+   [ID] => POOL2
+   [Elapsed] => 44858
+   [Calls] => 0
+   [Wait] => 0.000000
+   [Max] => 0.000000
+   [Min] => 99999999.000000
+   [Pool Calls] => 0
+   [Pool Attempts] => 0
+   [Pool Wait] => 0.000000
+   [Pool Max] => 0.000000
+   [Pool Min] => 99999999.000000
+   [Pool Av] => 0.000000
+   [Work Had Roll Time] => false
+   [Work Can Roll] => false
+   [Work Had Expire] => false
+   [Work Roll Time] => 0
+   [Work Diff] => 512.00000000
+   [Min Diff] => 512.00000000
+   [Max Diff] => 512.00000000
+   [Min Diff Count] => 1
+   [Max Diff Count] => 1
+   [Times Sent] => 2
+   [Bytes Sent] => 151
+   [Times Recv] => 4
+   [Bytes Recv] => 1346
+   [Net Bytes Sent] => 151
+   [Net Bytes Recv] => 1346
+)
+
